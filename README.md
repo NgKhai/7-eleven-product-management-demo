@@ -18,32 +18,32 @@ A full-stack convenience store product & order management system built with **Fl
 
 ---
 
-## 📸 Screenshots
+## 📸 screenshots
 
 ### User — Product Catalog
 | Mobile | Web |
 |--------|-----|
-| ![User Dashboard App](Screenshots/user_dashboard_app.png) | ![User Dashboard Web](Screenshots/user_dashboard_web.png) |
+| ![User Dashboard App](screenshots/user_dashboard_app.png) | ![User Dashboard Web](screenshots/user_dashboard_web.png) |
 
 ### User — Shopping Cart
 | Mobile | Web |
 |--------|-----|
-| ![User Cart App](Screenshots/user_cart_app.png) | ![User Cart Web](Screenshots/user_cart_web.png) |
+| ![User Cart App](screenshots/user_cart_app.png) | ![User Cart Web](screenshots/user_cart_web.png) |
 
 ### User — Order History
 | Mobile | Web |
 |--------|-----|
-| ![User Order App](Screenshots/user_order_app.png) | ![User Order Web](Screenshots/user_order_web.png) |
+| ![User Order App](screenshots/user_order_app.png) | ![User Order Web](screenshots/user_order_web.png) |
 
 ### Admin — Dashboard
 | Mobile | Web |
 |--------|-----|
-| ![Admin Dashboard App](Screenshots/admin_dashboard_app.png) | ![Admin Dashboard Web](Screenshots/admin_dashboard_web.png) |
+| ![Admin Dashboard App](screenshots/admin_dashboard_app.png) | ![Admin Dashboard Web](screenshots/admin_dashboard_web.png) |
 
 ### Admin — Order Management
 | Mobile | Web |
 |--------|-----|
-| ![Admin Order App](Screenshots/admin_order_app.png) | ![Admin Order Web](Screenshots/admin_order_web.png) |
+| ![Admin Order App](screenshots/admin_order_app.png) | ![Admin Order Web](screenshots/admin_order_web.png) |
 
 ---
 
